@@ -3,7 +3,7 @@ public class DrawFigures1 {
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
-        System.out.println(" \\    /");
+    //    System.out.println(" \\    /");
         System.out.println("  \\  /");
         System.out.println("   \\/");
         System.out.println();
