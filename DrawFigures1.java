@@ -3,7 +3,7 @@ public class DrawFigures1 {
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
-    //    System.out.println(" \\    /");
+        System.out.println(" \\    /");
         System.out.println("  \\  /");
         System.out.println("   \\/");
         System.out.println();
@@ -30,5 +30,27 @@ public class DrawFigures1 {
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
+       
+        public static void Draw1() {
+9       System.out.println("   /\\");
+        System.out.println("  /  \\");
+        System.out.println(" /    \\");
+        System.out.println("+------+");
+        System.out.println("|      |");
+        System.out.println("|      |");
+        System.out.println("+------+");
+        System.out.println("|United|");
+        System.out.println("|States|");
+        System.out.println("+------+");
+        System.out.println("|      |");
+        System.out.println("|      |");
+        System.out.println("+------+")
+
+
+
+
+10 }
+        
+        
     }
 }
